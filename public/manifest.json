@@ -1,0 +1,14 @@
+{
+  "name": "BountyBoard By Base",
+  "description": "BountyBoard By Base is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://b6de768c-2e2f-4a9c-aa11-673c385dff43.vercel.app",
+  "properties": {
+    "app": {
+      "name": "BountyBoard By Base",
+      "description": "BountyBoard By Base is a Base Mini App built with Zara.",
+      "url": "https://b6de768c-2e2f-4a9c-aa11-673c385dff43.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
