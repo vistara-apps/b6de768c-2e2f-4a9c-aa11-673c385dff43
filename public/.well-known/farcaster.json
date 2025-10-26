@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJib3VudHlib2FyZC5iYXNlIn0",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "BountyBoard by Base",
+    "homeUrl": "https://bountyboard.base",
+    "iconUrl": "https://bountyboard.base/icon.png",
+    "splashImageUrl": "https://bountyboard.base/splash.png",
+    "splashBackgroundColor": "#0052ff",
+    "webhookUrl": "https://api.bountyboard.base/farcaster-webhook",
+    "subtitle": "Connect companies with top recruiters",
+    "description": "A recruiting platform leveraging Farcaster to connect companies seeking talent with specialized recruiters, facilitating job postings, bounty listings, candidate tracking, and on-chain payouts.",
+    "screenshotUrls": [
+      "https://bountyboard.base/screenshot1.png",
+      "https://bountyboard.base/screenshot2.png",
+      "https://bountyboard.base/screenshot3.png"
+    ],
+    "primaryCategory": "social",
+    "tags": ["recruiting", "bounties", "base", "onchain"],
+    "heroImageUrl": "https://bountyboard.base/hero.png",
+    "tagline": "Post bounties, track candidates, automate payouts",
+    "ogTitle": "BountyBoard by Base",
+    "ogDescription": "Connect companies with top recruiters on Base",
+    "ogImageUrl": "https://bountyboard.base/og-image.png"
+  }
+}
